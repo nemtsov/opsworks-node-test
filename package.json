@@ -1,0 +1,21 @@
+{
+  "name": "opsworks-node-test",
+  "version": "0.1.0",
+  "description": "opsworks-node-test ==================",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nemtsov/opsworks-node-test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "c0c069b237fe35cdc798c756ead3fef9b2820920",
+  "bugs": {
+    "url": "https://github.com/nemtsov/opsworks-node-test/issues"
+  }
+}
