@@ -1,3 +1,3 @@
 require('http').createServer(function (req, res) {
-  res.send('awesome!')
+  res.end('awesome!')
 }).listen(80)
